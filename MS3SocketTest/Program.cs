@@ -40,7 +40,7 @@ internal class Program
                         continue;
                     }
 
-                    if (!File.Exists(Path.Combine("C:\\Gran_Turismo\\RPCS3\\app_home\\published", spl[1])))
+                    if (!File.Exists(Path.Combine("<full path to app_home\\published>", spl[1])))
                     {
                         Console.WriteLine("ERROR: File does not exist, aborting load otherwise game crashes");
                         continue;
