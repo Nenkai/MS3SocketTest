@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MS3SocketTest", "MS3SocketTest\MS3SocketTest.csproj", "{E95DAC60-6CB7-44C9-9204-B62DBB01CA46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E95DAC60-6CB7-44C9-9204-B62DBB01CA46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E95DAC60-6CB7-44C9-9204-B62DBB01CA46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E95DAC60-6CB7-44C9-9204-B62DBB01CA46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E95DAC60-6CB7-44C9-9204-B62DBB01CA46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25FBFD9A-3541-464B-850A-32E7A88A8B74}
+	EndGlobalSection
+EndGlobal
