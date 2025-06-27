@@ -1,6 +1,6 @@
 # MS3SocketTest
 
-Quick tool for interacting with motorstorm 3's Resource Viewer binary
+Quick tool for interacting with motorstorm 3's Resource Viewer binary (resourceviewer_atg.self)
 
 ## Usage (RPCS3)
 
