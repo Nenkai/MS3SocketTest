@@ -7,7 +7,7 @@ Quick tool for interacting with motorstorm 3's Resource Viewer binary (resourcev
 1. Install Debug Firmware in RPCS3 (https://darthsternie.net/ps3-dev-firmwares/) - 4.81 is fine
 2. Make sure Debug Console Mode in Advanced is disabled
 3. Install PKG
-4. Extract PSARC
+4. Extract PSARC (use [PS3 Game Extractor](https://www.psx-place.com/resources/ps3-game-extractor.824/), most PSARC extractors on github are intended for PC games)
 5. Move contents to `RPCS3/app_home/published` (create folders)
 6. Edit RPCS3/config/vfs.yml:
 	/app_home/: $(EmulatorDir)app_home/
